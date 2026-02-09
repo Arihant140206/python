@@ -1,0 +1,11 @@
+Date,City,Temperature_C,Humidity_P,,
+01/01/26,Chennai,30,65,12,Sunny
+02/01/26,Chennai,29,70,10,Cloudy
+03/01/26,Chennai,31,60,14,Sunny
+04/01/26,Chennai,28,75,8,Rainy
+05/01/26,Chennai,27,80,6,Rainy
+06/01/26,Chennai,29,68,11,Partly
+07/01/26,Chennai,32,55,15,Sunny
+08/01/26,Chennai,33,50,18,Sunny
+09/01/26,Chennai,30,63,13,Cloudy
+10/01/26,Chennai,28,72,9,Drizzle
